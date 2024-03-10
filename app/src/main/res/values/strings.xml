@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">exam2</string>
+    <string name="logo">PetZen Hub</string>
+    <string name="searchhint">"Search "</string>
+    <string name="Type">Type :</string>
+    <string name="price">Price :</string>
+    <string name="add">+</string>
+    <string name="booknow">Book Now</string>
+    <string name="hintownername">Enter owner name</string>
+    <string name="hintpetname">Enter pet name</string>
+    <string name="hintphone">Enter phone number</string>
+    <string name="hintnoofdates">Enter numbet of dates</string>
+    <string name="book">Book</string>
+    <string name="pay">Pay</string>
+    <string name="totprice">$200</string>
+    <string name="paybutton">Pay</string>
+    <string name="hintcardno">Enter card number</string>
+    <string name="hintcvc">cvc</string>
+    <string name="hintdate">date</string>
+    <string name="Back">Back</string>
+</resources>
